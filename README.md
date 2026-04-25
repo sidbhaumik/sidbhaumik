@@ -10,7 +10,9 @@ Currently Working On:
 Tech Stack:
 
 Languages: Python, SQL, Scala
+
 Platforms: Snowflake, Databricks, AWS, Apache Iceberg
+
 Tools: Airflow, Spark, Kafka, dbt
 
 Connect With Me:
