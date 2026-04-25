@@ -15,7 +15,9 @@ Platforms: Snowflake, Databricks, AWS, Apache Iceberg
 
 Tools: Airflow, Spark, Kafka, dbt
 
+
 Connect With Me:
+
 LinkedIn URL: https://www.linkedin.com/in/siddhartha-bhaumik-98a28019/
 <!---
 sidbhaumik/sidbhaumik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
